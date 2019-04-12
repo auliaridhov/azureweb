@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "harv";
+    $host = "harvapps.database.windows.net";
     $user = "harv";
     $pass = "Ridho123";
     $db = "harv";
